@@ -1,6 +1,6 @@
 # you-download
 
-Downloads a list of songs using (youtube_dl)[https://github.com/rg3/youtube-dl]
+Downloads a list of songs using [youtube_dl](https://github.com/rg3/youtube-dl)
 
 ## How To Use
 
