@@ -1,4 +1,4 @@
-# you-download
+# automated-song-downloader
 
 Downloads a list of songs using [youtube_dl](https://github.com/rg3/youtube-dl)
 
